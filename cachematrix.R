@@ -97,4 +97,4 @@ cacheSolve <- function(x, ...) {
 	invx <- solve(data, ...)
 	x$setinverse(invx)
 	invx	
-}
+} 
